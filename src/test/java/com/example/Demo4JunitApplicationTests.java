@@ -12,6 +12,7 @@ class  Demo4JunitApplicationTests {
         System.out.println("test")
         ;
         System.out.println("matser-test");
+        System.out.println("matser-test");
     }
 
 }
